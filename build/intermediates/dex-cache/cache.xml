@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/d3d3d0851177f2623fbeb658906769f349727558/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8300ac8b8a22612d2c36eb5c7122fd6ac00c1bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_02d60c79957686590c3e4b018cb6291744783afa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/2db6172e029a5f40c9c7fa7949e454294639ef58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeb824895bfb5a4803a41786afb3111f466e4069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.5_ed19e3940390f3fb3f6ee8777e94633d52d25587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/9dfd31d3d61ed077c34aadb4c0579d44c12fb4ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f32c412c77a549ba1ab981a5e893536ca769995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3eddcc17ab194698133a58308f0c0e837cdc015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/807a0429c673fe763963f49de2f88d6dd7f5ce9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08146c3dd0c1c421273a63986b10910f18956daa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/02556ddb7a34bc8c1dee69fb6cd9c068b43d993b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_554de9967f85858f8e5b78b1337bf13d54019c5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/ec6f443580936ac23b239f10c00fa76b1b86719a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab39c3656de6b65ae1e84941703a4e1ee99ae644/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/f9ffaf0d2ed6b5667b0926895d5d9b1be527b1ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f97016f0670931ebff97e1b5419dd765d6734130/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/575d4b5064c82ef51fa1071c35b1c12e58e441b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b81c788c5f175f94ddaac2f65e5d1726371e0963">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05f0166382422f02043fd8a92bac9057bdf73d31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b0ea421fd5f8c43e2834761eb35f9a407ef876b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/1e91f4345de821566fd26b7c14c71ddaf4cd4c7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72ff0c42d44314c830b3e353ed80a2fc1791f70f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_f50d0b78a86db53d4c6b9fd7b0443dd6d30af5e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c1b65c92cee195df8e394114c601f65a8ddd3052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e1810412961dc9f9ac21b261120c33b7f8577a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/27fcffc5080eb5ba3ad7d08dd99078bd5e02a0d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfbe02e91008c0b0f9c35102933e9201a6fe4aa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/175a093d71e231771aa7712677482f792137a6c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_033f0f4c98647aaafcb548a08580f0820af872d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/a5dadde2f09bfd40aa6032919fa06c416017b59e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d40c401d6ec4afa18c5bacc2696a5a6fceb70d9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49839cf5ae3befd71cf2ce97e65e71a3f7e035e8">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92ae8a8182c8b238193be950f6d26d2c179e2f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manuel/.android/build-cache/2a00e0b34704e76253747f877e8dec67d252c696/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71f0bc1c66dbf7bc662699b496eff4deffa5bdfb/classes.dex" />
+    </item>
+
+</items>
