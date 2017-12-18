@@ -1,10 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

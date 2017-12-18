@@ -1,26 +1,38 @@
 [
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_down.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow_down.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_down.xml"
     }
 ]

@@ -1,114 +1,170 @@
 [
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-v21/ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable-v21/avd_show_password.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
     }
 ]
