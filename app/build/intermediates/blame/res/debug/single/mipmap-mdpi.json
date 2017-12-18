@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\sivipas.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\mipmap-mdpi\\sivipas.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\sivipas.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\mipmap-mdpi\\sivipas.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\sivip.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\mipmap-mdpi\\sivip.png"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\sivip.png",
+        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\mipmap-mdpi\\sivip.png"
+    }
+]

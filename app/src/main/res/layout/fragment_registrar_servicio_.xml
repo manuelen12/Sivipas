@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+                android:background="@drawable/registrar_servicio"
+             tools:context="layout.registrar_servicio_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout2"
+        android:weightSum="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+
+
+
+        <EditText
+            android:id="@+id/campoServicio"
+            android:layout_width="319dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginBottom="1dp"
+            android:layout_marginTop="200dp"
+            android:background="@drawable/edittextstyle"
+            android:hint="Servicio"
+            android:inputType="textAutoComplete"
+            android:textColorHint="#060606"
+            android:textStyle="bold"
+            android:typeface="serif"
+            />
+
+
+        <Button
+            android:id="@+id/btnRegistrar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/linearLayout2"
+            android:layout_marginLeft="195dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/registrar"/>
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,113 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/eventotramite"
+    tools:context="co.quindio.sena.tutorialwebservice.fragments.TramitesAdministrativosFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:id="@+id/layoutRegistrarFactorRiesgo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="12dp"
+            android:orientation="vertical">
+
+
+            <EditText
+                android:id="@+id/NombrePaciente1"
+                android:layout_gravity="center"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="180dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/edittextstyle"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:textColorHint="#060606"
+                android:hint="NOMBRE DEL PACIENTE"
+                android:inputType="textPersonName"
+                android:singleLine="true"
+                android:textSize="18dp"
+
+                />
+
+            <EditText
+                android:id="@+id/campoDocumento1"
+               android:layout_gravity="center"
+                android:layout_width="300dp"
+                android:layout_height="60dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/edittextstyle"
+                android:layout_marginTop="10dp"
+                android:digits="1234567890 "
+                android:ems="9"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:textColorHint="#060606"
+                android:gravity="center"
+                android:hint="NUMERO DE DOCUMENTO"
+                android:inputType="number"
+                android:maxLength="10"
+                android:singleLine="true"
+                android:textSize="18dp" />
+
+
+            <EditText
+                android:id="@+id/campo_descripcion1"
+                android:layout_width="298dp"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:hint="REALICE UNA BREVE DESCRIPCION DE LO SUCEDIDO"
+                android:inputType="textMultiLine"
+                android:lines="5"
+                android:background="@drawable/edittextstyle"
+                android:maxLines="9"
+                android:textColorHint="#060606"
+                android:textStyle="bold"
+                android:typeface="serif" />
+
+
+        <LinearLayout
+            android:id="@+id/layoutbtn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="120dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/registrar"
+            />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/actualiz"
+                />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

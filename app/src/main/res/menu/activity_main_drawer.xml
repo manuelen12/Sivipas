@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_black"
+            android:title="Inicio" />
+        
+    </group>
+
+
+    <item android:title="Registrar">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_registro"
+                    android:icon="@drawable/ic_content_paste"
+                    android:title="Registrar usuario" />
+
+                <item
+                    android:id="@+id/nav_registroServicio"
+                    android:icon="@drawable/ic_content_paste"
+                    android:title="Registrar Servicio" />
+
+                <item
+                    android:id="@+id/nav_RegistroProcesosAsistenciales"
+                    android:icon="@drawable/ic_content_paste"
+                    android:title="Registrar Proc.Asistencial" />
+
+            </group>
+        </menu>
+    </item>
+
+
+
+    <item android:title="Consultas">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_consulta_individual"
+                    android:icon="@android:drawable/ic_menu_search"
+                    android:title="Consultar Usuario" />
+                <item
+                    android:id="@+id/nav_consulta_gral"
+                    android:icon="@android:drawable/ic_menu_search"
+                    android:title="Consultar Lista de Usuarios" />
+
+                <item
+                    android:id="@+id/nav_consulta_Servicio"
+                    android:icon="@android:drawable/ic_menu_search"
+                    android:title="Consultar Sevicios" />
+                <item
+                    android:id="@+id/nav_consulta_eventos"
+                    android:icon="@android:drawable/ic_menu_search"
+                    android:title="Consultar Proc.Asistencial" />
+                <item
+                    android:id="@+id/nav_consulta_Det_Reporte"
+                    android:icon="@android:drawable/ic_menu_search"
+                    android:title="Consultar Det.Reporte" />
+
+
+
+            </group>
+        </menu>
+
+    </item>
+
+    <item android:title="Consultas General">
+        <menu>
+            <item
+                android:id="@+id/nav_consulta_general"
+                android:title="Consultas Generales"
+                android:icon="@android:drawable/ic_menu_search"
+                />
+        </menu>
+    </item>
+
+
+    <item android:title="Incidentes">
+
+        <menu>
+        <group>
+            <item
+                android:id="@+id/nav_RegistrarIncidente"
+                android:icon="@drawable/ic_content_paste"
+                android:title="Incidente "/>
+
+            <item
+                android:id="@+id/nav_RegistrarIncidentePAsistenciales"
+                android:icon="@drawable/ic_content_paste"
+                android:title="Reporte Incidentes"/>
+        </group>
+            </menu>
+           </item>
+
+    <item android:title="Eventos Adversos">
+        <menu>
+
+            <item
+                android:id="@+id/nav_RegistrarEvento"
+                android:icon="@drawable/ic_content_paste"
+                android:title="Evento"/>
+
+
+
+        <item
+            android:id="@+id/nav_RegistrarEventoMedicamentos"
+            android:icon="@drawable/ic_content_paste"
+            android:title="Evento Medicamentos"/>
+
+        <item
+            android:id="@+id/nav_RegistrarEventoAdversoDispositivosMedicos"
+            android:icon="@drawable/ic_content_paste"
+            android:title="Evento Dispositivos"/>
+
+
+
+        <item
+            android:id="@+id/nav_RegistrareventoTramitesAdministrativos"
+            android:icon="@drawable/ic_content_paste"
+            android:title="Evento Tr. Administrativos"/>
+
+
+
+        <item
+            android:id="@+id/nav_RegistrarEventoProcesosAsistenciales"
+            android:icon="@drawable/ic_content_paste"
+            android:title="Procesos Asistenciales"/>
+
+
+
+
+        </menu>
+    </item>
+
+    <item android:title="Generar Reportes">
+        <menu>
+
+            <item
+                android:id="@+id/nav_Clasificacion_Eventos_Incidentes"
+                android:icon="@drawable/ic_barras"
+                android:title="Clasificacion Eventos" />
+
+            <item
+                android:id="@+id/nav_Clasificacion_Incidentes"
+                android:icon="@drawable/ic_barras"
+                android:title="Clasificacion Incidentes" />
+
+            <item
+                android:id="@+id/nav_Prom_event"
+                android:icon="@drawable/ic_barras"
+                android:title="Prom-event-incident" />
+
+            <item
+                android:id="@+id/porcentaje_reporte_perfil"
+                android:icon="@drawable/ic_barras"
+                android:title="% De Reporte Perfil" />
+
+            <item
+                android:id="@+id/porcentaje_reporte_sevicios"
+                android:icon="@drawable/ic_barras"
+                android:title="% De Reporte Sevicios" />
+
+        </menu>
+    </item>
+
+    <item android:title="Ayuda">
+        <menu>
+            <item
+                android:id="@+id/nav_desarrollador"
+                android:icon="@android:drawable/ic_menu_myplaces"
+                android:title="Desarrollador" />
+
+
+            <item
+                android:id="@+id/nav_Manual_De_Usuario"
+                android:icon="@drawable/ic_book"
+                android:title="Manual De Usuario" />
+
+
+        </menu>
+    </item>
+
+
+    <item android:id="@+id/CerrarSesion"
+          android:icon="@drawable/ic_cerra_sesion"
+          android:title="Cerrar Sesion">
+
+    </item>
+
+
+
+</menu>
+
+
+

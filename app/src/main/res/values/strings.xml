@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SIVIPAS
+
+
+    </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Manual Usuario</string>
+    <string name="ip">http://192.168.2.44</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bienvenido Usuario</string>
+    <string name="title_activity_spinner">spinner</string>
+    <string name="actualizarUsuarioFragment">Actualizar Contraseña</string>
+    <string name="registrareventoprocedimientosasistencialesFragment">Registrar Evento Del Procedimiento Asistencial</string>
+</resources>

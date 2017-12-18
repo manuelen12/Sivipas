@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
