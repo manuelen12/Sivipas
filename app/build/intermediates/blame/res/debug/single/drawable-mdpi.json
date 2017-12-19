@@ -1,35 +1,31 @@
 [
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_calendar.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_calendar.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_name.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-mdpi/ic_action_name.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_down.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_down.png"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barras.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-mdpi\\ic_barras.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_calendar.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_calendar.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barras.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-mdpi/ic_barras.png"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_calendar.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_calendar.png"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_user.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-mdpi\\ic_action_user.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_book.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-mdpi\\ic_book.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_user.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_user.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_book.png",
@@ -38,14 +34,6 @@
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_user.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-mdpi/ic_action_user.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_calendar.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_calendar.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_user.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_user.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_down.png",
@@ -62,5 +50,17 @@
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_down.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_down.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_book.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable-mdpi\\ic_book.png"
     }
 ]

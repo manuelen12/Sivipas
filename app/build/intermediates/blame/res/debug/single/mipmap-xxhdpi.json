@@ -1,15 +1,31 @@
 [
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sivip.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\mipmap-xxhdpi\\sivip.png"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/sivip.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/mipmap-xxhdpi/sivip.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/sivipas.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/mipmap-xxhdpi/sivipas.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sivip.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\mipmap-xxhdpi\\sivip.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/sivipas.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/mipmap-xxhdpi/sivipas.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sivipas.png",
@@ -18,21 +34,5 @@
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sivipas.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\mipmap-xxhdpi\\sivipas.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sivip.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\mipmap-xxhdpi\\sivip.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

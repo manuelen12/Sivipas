@@ -1,175 +1,187 @@
 [
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagen.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\imagen.jpg"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_base.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\img_base.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnconsult.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\btnconsult.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/fachada.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/fachada.jpg"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundlogin.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\backgroundlogin.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incidente.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\incidente.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventomedicamento.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventomedicamento.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg_proc_asist.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\reg_proc_asist.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/registro.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/registro.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/buttonstylenormal.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/buttonstylenormal.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventotramite.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventotramite.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_spinner.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\border_spinner.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/fachada.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/fachada.jpg"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fecha.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\icon_fecha.png"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cerra_sesion.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_cerra_sesion.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incidente.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\incidente.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventotramite.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventotramite.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventotramite.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventotramite.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualizarcontra.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\actualizarcontra.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventodispositivos.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventodispositivos.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/registro.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/registro.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleclicked.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\buttonstyleclicked.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/buttonstylenormal.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/buttonstylenormal.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fachada.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\fachada.jpg"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagen.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\imagen.jpg"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registrar_servicio.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\registrar_servicio.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundlogin.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\backgroundlogin.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/btnconsult.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/btnconsult.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fecha.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\icon_fecha.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\bd.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sebas.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\sebas.jpg"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clinica.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\clinica.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_base.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\img_base.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/generarreporte.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/generarreporte.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sebas.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\sebas.jpg"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleclicked.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\buttonstyleclicked.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\user.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/user.png",
@@ -180,32 +192,24 @@
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/eventomedicamento.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fachada.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\fachada.jpg"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
@@ -216,12 +220,40 @@
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/consultarusuario.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualiz.PNG",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\actualiz.PNG"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/logoprivativos.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/logoprivativos.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventomedicamento.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventomedicamento.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_spinner.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\border_spinner.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\bd.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_spinner.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\border_spinner.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/boton.png",
@@ -232,24 +264,44 @@
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/icon_login.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultasgenerales.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\consultasgenerales.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstylenormal.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\buttonstylenormal.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registrar.PNG",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\registrar.PNG"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleclicked.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\buttonstyleclicked.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventoprocesos.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventoprocesos.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoprivativos.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\logoprivativos.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventomedicamento.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventomedicamento.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultarusuario.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\consultarusuario.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_base.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\img_base.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registro.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\registro.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/ic_cerra_sesion.png",
@@ -260,16 +312,12 @@
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondobar.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\fondobar.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleseletor.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\buttonstyleseletor.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
@@ -280,16 +328,24 @@
         "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultasgenerales.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\consultasgenerales.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_login.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\icon_login.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualizarcontra.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\actualizarcontra.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/border_spinner.xml",
@@ -300,52 +356,72 @@
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualiz.PNG",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\actualiz.PNG"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registrar.PNG",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\registrar.PNG"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstylenormal.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\buttonstylenormal.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/eventoprocesos.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/eventoprocesos.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextstyle.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\edittextstyle.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\natureleza.jpg",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\natureleza.jpg"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_spinner.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\border_spinner.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\natureleza.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\natureleza.jpg"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundlogin.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\backgroundlogin.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/edittextstyle.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/edittextstyle.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/backgroundlogin.png",
@@ -356,68 +432,64 @@
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/imagen.jpg"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualizarcontra.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\actualizarcontra.png"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/consultasgenerales.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/consultasgenerales.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\generarreporte.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\generarreporte.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundlogin.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\backgroundlogin.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incidente.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\incidente.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultasgenerales.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\consultasgenerales.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundusuarios.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\backgroundusuarios.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clinica.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\clinica.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/registrar.PNG",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/registrar.PNG"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\generarreporte.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\generarreporte.png"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualizarcontra.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\actualizarcontra.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualiz.PNG",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\actualiz.PNG"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoprivativos.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\logoprivativos.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondobar.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\fondobar.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_login.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\icon_login.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boton.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\boton.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagen.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\imagen.jpg"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
@@ -428,20 +500,20 @@
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleclicked.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\buttonstyleclicked.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fachada.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\fachada.jpg"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/sebas.jpg",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/sebas.jpg"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
@@ -452,232 +524,216 @@
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fachada.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\fachada.jpg"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/bd.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/bd.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultarusuario.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\consultarusuario.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\user.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/img_base.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/img_base.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondobar.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\fondobar.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/btnloguear.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/btnloguear.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_insert_invitation_black_48dp.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_insert_invitation_black_48dp.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registrar.PNG",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\registrar.PNG"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/clinica.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/clinica.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/reg_proc_asist.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/reg_proc_asist.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registro.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\registro.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnloguear.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\btnloguear.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/buttonstyleclicked.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/buttonstyleclicked.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clinica.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\clinica.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\generarreporte.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\generarreporte.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/bd.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/bd.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registrar_servicio.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\registrar_servicio.png"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\ic_home_black.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/img_base.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/img_base.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/logo.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_home_black.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagen.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\imagen.jpg"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultasgenerales.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\consultasgenerales.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_vector_test.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/btnloguear.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/btnloguear.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/actualiz.PNG",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/actualiz.PNG"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_content_paste.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\ic_content_paste.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/clinica.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/clinica.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleseletor.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\buttonstyleseletor.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstylenormal.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\buttonstylenormal.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/reg_proc_asist.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/reg_proc_asist.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextstyle.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\edittextstyle.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/buttonstyleclicked.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/buttonstyleclicked.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sebas.jpg",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\sebas.jpg"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/logo.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnloguear.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\btnloguear.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\natureleza.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\natureleza.jpg"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/actualiz.PNG",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/actualiz.PNG"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\desarrollador.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\desarrollador.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registro.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\registro.png"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/desarrollador.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/desarrollador.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/natureleza.jpg",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/natureleza.jpg"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultarusuario.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\consultarusuario.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundusuarios.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\backgroundusuarios.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/ic_home_black.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/ic_home_black.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventodispositivos.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventodispositivos.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventomedicamento.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventomedicamento.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
@@ -688,132 +744,104 @@
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sebas.jpg",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\sebas.jpg"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/registrar_servicio.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/registrar_servicio.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\bd.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondobar.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\fondobar.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextstyle.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\edittextstyle.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_content_paste.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_content_paste.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/ic_insert_invitation_black_48dp.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/ic_insert_invitation_black_48dp.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable/navigation_empty_icon.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registro.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\registro.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventotramite.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventotramite.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boton.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\boton.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/actualizarcontra.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/actualizarcontra.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundusuarios.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\backgroundusuarios.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnloguear.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\btnloguear.png"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/ic_insert_invitation_black_48dp.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/ic_insert_invitation_black_48dp.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventodispositivos.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventodispositivos.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/actualizarcontra.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/actualizarcontra.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventoprocesos.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventoprocesos.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleseletor.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\buttonstyleseletor.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\registrar.PNG",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\registrar.PNG"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/ic_content_paste.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/ic_content_paste.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_home_black.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnconsult.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\btnconsult.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\desarrollador.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\desarrollador.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fecha.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\icon_fecha.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/incidente.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/incidente.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\logo.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
@@ -824,44 +852,72 @@
         "source": "/home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/backgroundusuarios.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/backgroundusuarios.png"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_content_paste.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\ic_content_paste.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventodispositivos.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventodispositivos.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventoprocesos.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\eventoprocesos.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/buttonstyleseletor.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/buttonstyleseletor.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleseletor.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\buttonstyleseletor.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actualiz.PNG",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\actualiz.PNG"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_content_paste.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_content_paste.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/eventodispositivos.png",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/eventodispositivos.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/icon_fecha.png",
@@ -876,112 +932,44 @@
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/eventotramite.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\bd.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable/side_nav_bar.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\generarreporte.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\generarreporte.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextstyle.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\edittextstyle.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnconsult.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\btnconsult.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btnconsult.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\btnconsult.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\fb14ae3cd00e77093358550b3d4480b886481ffa\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clinica.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\clinica.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boton.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\boton.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_insert_invitation_black_48dp.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\ic_insert_invitation_black_48dp.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundusuarios.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\backgroundusuarios.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incidente.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\incidente.png"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_base.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\img_base.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_insert_invitation_black_48dp.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_insert_invitation_black_48dp.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boton.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\boton.png"
     },
     {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/drawable/fondobar.png",
@@ -992,15 +980,27 @@
         "source": "/home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eventoprocesos.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\eventoprocesos.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstylenormal.xml",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\buttonstylenormal.xml"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\consultarusuario.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\consultarusuario.png"
     },
     {
-        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cerra_sesion.png",
-        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\src\\main\\res\\drawable\\ic_cerra_sesion.png"
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_insert_invitation_black_48dp.png",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\src\\main\\res\\drawable\\ic_insert_invitation_black_48dp.png"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\Sivipas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\Desktop\\TutorialWebService-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/C:\\Users\\Sebastian\\.android\\build-cache\\8401654e9bfd75c8cd3a57256165d504d0c3d282\\output\\res\\drawable\\abc_ratingbar_material.xml"
     }
 ]

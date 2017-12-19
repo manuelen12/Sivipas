@@ -1,4 +1,4 @@
-#Mon Dec 18 18:47:04 VET 2017
+#Tue Dec 19 09:37:34 VET 2017
 file.2=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3eddcc17ab194698133a58308f0c0e837cdc015/classes.dex
 base.2=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3eddcc17ab194698133a58308f0c0e837cdc015
 file.1=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_033f0f4c98647aaafcb548a08580f0820af872d6/classes.dex

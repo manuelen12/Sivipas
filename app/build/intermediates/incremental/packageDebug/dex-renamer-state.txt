@@ -1,7 +1,4 @@
-#Mon Dec 18 18:47:07 VET 2017
-base.0=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e1810412961dc9f9ac21b261120c33b7f8577a0
-renamed.1=classes2.dex
+#Tue Dec 19 09:53:59 VET 2017
+base.0=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92ae8a8182c8b238193be950f6d26d2c179e2f8b/classes.dex
-base.1=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92ae8a8182c8b238193be950f6d26d2c179e2f8b
-file.0=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e1810412961dc9f9ac21b261120c33b7f8577a0/classes.dex
+file.0=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
