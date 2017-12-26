@@ -2,13 +2,13 @@
 <instant-run
     abi="x86"
     api-level="26"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1514316882609"
+    timestamp="1514319530116"
     token="-8642326721616108345"
-    verifier="NO_CHANGES" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -22,6 +22,10 @@
     <task
         name="verifier"
         duration="0" />
+
+    <artifact
+        location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -85,7 +89,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1514315465672"
+        timestamp="1514318449863"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -93,24 +97,20 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1514315989099"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1514316756877"
+        timestamp="1514318613262"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
     </build>
     <build
-        build-mode="HOT_WARM"
-        timestamp="1514316882609"
-        verifier="NO_CHANGES" />
+        build-mode="COLD"
+        timestamp="1514319530116"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/outputs/apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>

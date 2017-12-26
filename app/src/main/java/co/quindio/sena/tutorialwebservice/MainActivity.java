@@ -148,12 +148,16 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_RegistrarEventoProcesosAsistenciales) {
             miFragment = new EventoProcesosAsistencialesFragment();
             fragmentSeleccionado = true;
+
         }
 
         else if (id == R.id.nav_consulta_general) {
             miFragment = new ConsultasGeneralFragment();
             fragmentSeleccionado = true;
+
+
         }
+
 
         if (fragmentSeleccionado==true){
             getSupportFragmentManager().beginTransaction().replace(R.id.content_main,miFragment).commit();

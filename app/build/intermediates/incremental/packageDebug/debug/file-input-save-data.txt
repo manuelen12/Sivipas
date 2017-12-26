@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 26 15:20:00 VET 2017
+#Tue Dec 26 16:19:15 VET 2017
 4.path=SaturdayNights.ttf
 8.set=ASSET
 6.path=classes.dex
