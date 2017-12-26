@@ -1,18 +1,41 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/manuel/.gradle/caches/transforms-1/files-1.1/crouton-1.8.5.aar/fa38ca0342e9bfcd0fb58e832e3c75c5/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/179ca87a2e454517060e6e432e840790/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d8dc2b428cef1acdd9cec25b986856ec/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/bb4dd9ee28e445b8f9164c12e2080f5f/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.volley:volley:1.0.0] /home/manuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/ee84d65a52f113b8065001538bc57b62/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/manuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c8e8ead20b3fcb4274d32b06828d7be8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cab8c99d887162280ed6a8977e6170fc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/26f3402da2ead0091580cfb7ffb0c415/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f02821554ec79e9b4d3e0e9e31bafffd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7fe09dcce252748d5d8ce98583dd03cd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
-		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
@@ -23,27 +46,40 @@ ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManife
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:6:22-76
 application
 ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:9:5-28:19
-MERGED from [com.android.support:design:25.3.1] /home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.android/build-cache/ec6f443580936ac23b239f10c00fa76b1b86719a/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.android/build-cache/a5dadde2f09bfd40aa6032919fa06c416017b59e/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /home/manuel/.android/build-cache/02556ddb7a34bc8c1dee69fb6cd9c068b43d993b/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.android/build-cache/9dfd31d3d61ed077c34aadb4c0579d44c12fb4ca/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.android/build-cache/f9ffaf0d2ed6b5667b0926895d5d9b1be527b1ab/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.android/build-cache/1e91f4345de821566fd26b7c14c71ddaf4cd4c7b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.android/build-cache/d3d3d0851177f2623fbeb658906769f349727558/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.android/build-cache/27fcffc5080eb5ba3ad7d08dd99078bd5e02a0d1/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.android/build-cache/175a093d71e231771aa7712677482f792137a6c3/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.volley:volley:1.0.0] /home/manuel/.android/build-cache/807a0429c673fe763963f49de2f88d6dd7f5ce9f/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/manuel/.android/build-cache/2db6172e029a5f40c9c7fa7949e454294639ef58/output/AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:12:9-41
+MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/179ca87a2e454517060e6e432e840790/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/179ca87a2e454517060e6e432e840790/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d8dc2b428cef1acdd9cec25b986856ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d8dc2b428cef1acdd9cec25b986856ec/AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/manuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/ee84d65a52f113b8065001538bc57b62/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/manuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/ee84d65a52f113b8065001538bc57b62/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/manuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c8e8ead20b3fcb4274d32b06828d7be8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/manuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c8e8ead20b3fcb4274d32b06828d7be8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cab8c99d887162280ed6a8977e6170fc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cab8c99d887162280ed6a8977e6170fc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/26f3402da2ead0091580cfb7ffb0c415/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/26f3402da2ead0091580cfb7ffb0c415/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f02821554ec79e9b4d3e0e9e31bafffd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f02821554ec79e9b4d3e0e9e31bafffd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7fe09dcce252748d5d8ce98583dd03cd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7fe09dcce252748d5d8ce98583dd03cd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:29:5-20
 	android:supportsRtl
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:13:9-35
-	android:allowBackup
-		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:11:9-39
+	android:allowBackup
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
@@ -72,43 +108,75 @@ ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManife
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:25:27-74
 uses-sdk
 INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/manuel/.android/build-cache/575d4b5064c82ef51fa1071c35b1c12e58e441b7/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:design:25.3.1] /home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.android/build-cache/ec6f443580936ac23b239f10c00fa76b1b86719a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.android/build-cache/a5dadde2f09bfd40aa6032919fa06c416017b59e/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /home/manuel/.android/build-cache/02556ddb7a34bc8c1dee69fb6cd9c068b43d993b/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.android/build-cache/9dfd31d3d61ed077c34aadb4c0579d44c12fb4ca/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.android/build-cache/f9ffaf0d2ed6b5667b0926895d5d9b1be527b1ab/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.android/build-cache/1e91f4345de821566fd26b7c14c71ddaf4cd4c7b/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.android/build-cache/d3d3d0851177f2623fbeb658906769f349727558/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/manuel/.android/build-cache/2a00e0b34704e76253747f877e8dec67d252c696/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.android/build-cache/27fcffc5080eb5ba3ad7d08dd99078bd5e02a0d1/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.android/build-cache/175a093d71e231771aa7712677482f792137a6c3/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.volley:volley:1.0.0] /home/manuel/.android/build-cache/807a0429c673fe763963f49de2f88d6dd7f5ce9f/output/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/manuel/.android/build-cache/2db6172e029a5f40c9c7fa7949e454294639ef58/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/manuel/.gradle/caches/transforms-1/files-1.1/crouton-1.8.5.aar/fa38ca0342e9bfcd0fb58e832e3c75c5/AndroidManifest.xml:22:5-24:41
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/manuel/.gradle/caches/transforms-1/files-1.1/crouton-1.8.5.aar/fa38ca0342e9bfcd0fb58e832e3c75c5/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/179ca87a2e454517060e6e432e840790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/179ca87a2e454517060e6e432e840790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d8dc2b428cef1acdd9cec25b986856ec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d8dc2b428cef1acdd9cec25b986856ec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/bb4dd9ee28e445b8f9164c12e2080f5f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/bb4dd9ee28e445b8f9164c12e2080f5f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/manuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/ee84d65a52f113b8065001538bc57b62/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/manuel/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/ee84d65a52f113b8065001538bc57b62/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/manuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c8e8ead20b3fcb4274d32b06828d7be8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/manuel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c8e8ead20b3fcb4274d32b06828d7be8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cab8c99d887162280ed6a8977e6170fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cab8c99d887162280ed6a8977e6170fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/26f3402da2ead0091580cfb7ffb0c415/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/26f3402da2ead0091580cfb7ffb0c415/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f02821554ec79e9b4d3e0e9e31bafffd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f02821554ec79e9b4d3e0e9e31bafffd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7fe09dcce252748d5d8ce98583dd03cd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7fe09dcce252748d5d8ce98583dd03cd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.android/build-cache/3a3c547278d14e479b5fcfd53b5d6dcb8101b016/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.android/build-cache/ec6f443580936ac23b239f10c00fa76b1b86719a/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.android/build-cache/a5dadde2f09bfd40aa6032919fa06c416017b59e/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /home/manuel/.android/build-cache/02556ddb7a34bc8c1dee69fb6cd9c068b43d993b/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.android/build-cache/9dfd31d3d61ed077c34aadb4c0579d44c12fb4ca/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.android/build-cache/f9ffaf0d2ed6b5667b0926895d5d9b1be527b1ab/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.android/build-cache/1e91f4345de821566fd26b7c14c71ddaf4cd4c7b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.android/build-cache/d3d3d0851177f2623fbeb658906769f349727558/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/manuel/.android/build-cache/2a00e0b34704e76253747f877e8dec67d252c696/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.android/build-cache/27fcffc5080eb5ba3ad7d08dd99078bd5e02a0d1/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.android/build-cache/175a093d71e231771aa7712677482f792137a6c3/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/179ca87a2e454517060e6e432e840790/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/179ca87a2e454517060e6e432e840790/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d8dc2b428cef1acdd9cec25b986856ec/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d8dc2b428cef1acdd9cec25b986856ec/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/bb4dd9ee28e445b8f9164c12e2080f5f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/bb4dd9ee28e445b8f9164c12e2080f5f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cab8c99d887162280ed6a8977e6170fc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/cab8c99d887162280ed6a8977e6170fc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/26f3402da2ead0091580cfb7ffb0c415/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/26f3402da2ead0091580cfb7ffb0c415/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f02821554ec79e9b4d3e0e9e31bafffd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/f02821554ec79e9b4d3e0e9e31bafffd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7fe09dcce252748d5d8ce98583dd03cd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7fe09dcce252748d5d8ce98583dd03cd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /home/manuel/.android/build-cache/55ed0dafa932951cbba23e9bcae38e4476b64f49/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:26:9-47

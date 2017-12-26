@@ -6,6 +6,7 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -131,7 +132,7 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
     }
 
     public String enviarDatoGet(String name, String contrasena) {
-
+        Log.d("error", name);
         URL url = null;
         String linea = "";
         int respuesta = 0;
@@ -140,7 +141,7 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
 
         try {
             String ip=getString( R.string.ip );
-            url = new URL( ip+"/192.168.2.44/consulta_servicio/login/loguear.php?name=" + Spinner3 + "&contrasena=" + Edit_contraseña );
+            url = new URL( ip+"/consulta_servicio/login/loguear.php?name=" + Spinner3 + "&contrasena=" + Edit_contraseña );
             HttpURLConnection connection=(HttpURLConnection) url.openConnection();
             respuesta=connection.getResponseCode();
 

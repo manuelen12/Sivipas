@@ -13,7 +13,7 @@
         android:label="Tests for co.quindio.sena.tutorialwebservice"
         android:targetPackage="co.quindio.sena.tutorialwebservice" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
