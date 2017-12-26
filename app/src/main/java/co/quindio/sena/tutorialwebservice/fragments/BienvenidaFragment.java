@@ -35,6 +35,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 
+import co.quindio.sena.tutorialwebservice.Main2Activity;
 import co.quindio.sena.tutorialwebservice.R;
 
 /**
@@ -115,8 +116,9 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
                     @Override
                     public void run() {
                         int r = obtDatosJSON( resultado );
+                        Log.d("resultado", String.valueOf(r));
                         if (r > 0) {
-                            Intent i=new Intent( getContext(),IncidenteSeguridadPacienteFragment.class);
+                            Intent i=new Intent( getContext(),Main2Activity.class);
                             i.putExtra ("name",Spinner3.getSelectedItem().toString());
                             startActivity(i);
 
@@ -141,7 +143,9 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
 
         try {
             String ip=getString( R.string.ip );
-            url = new URL( ip+"/consulta_servicio/login/loguear.php?name=" + Spinner3 + "&contrasena=" + Edit_contraseña );
+            Log.d("culo", "culo");
+            url = new URL( ip+"/consulta_servicio/login/loguear.php?name=" + name + "&contrasena=" + contrasena );
+            Log.d("url", String.valueOf(url));
             HttpURLConnection connection=(HttpURLConnection) url.openConnection();
             respuesta=connection.getResponseCode();
 

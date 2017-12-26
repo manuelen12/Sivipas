@@ -32,11 +32,6 @@ import layout.registrareventoprocedimientosasistencialesFragment;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,IFragments{
 
-
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -126,11 +121,6 @@ public class MainActivity extends AppCompatActivity
             miFragment = new DesarrolladorFragment();
             fragmentSeleccionado = true;
 
-
-
-
-
-
         } else if (id == R.id.nav_RegistrarIncidente) {
             miFragment = new ReporteIncidenteFragment();
             fragmentSeleccionado = true;
@@ -139,52 +129,31 @@ public class MainActivity extends AppCompatActivity
             miFragment = new IncidenteSeguridadPacienteFragment();
             fragmentSeleccionado = true;
 
-
-
-
         } else if (id == R.id.nav_RegistrarEvento) {
             miFragment = new RegistrarEventosE_AccidentalesFragment();
             fragmentSeleccionado = true;
-
-
-
 
         } else if (id == R.id.nav_RegistrarEventoMedicamentos) {
             miFragment = new EventoAdversoMedicamentosFragment();
             fragmentSeleccionado = true;
 
-
-
-
-
-
         } else if (id == R.id.nav_RegistrarEventoAdversoDispositivosMedicos) {
             miFragment = new EventoAdversoDispositivoFragment();
             fragmentSeleccionado = true;
-
-
-
 
         } else if (id == R.id.nav_RegistrareventoTramitesAdministrativos) {
             miFragment = new TramitesAdministrativosFragment();
             fragmentSeleccionado = true;
 
-
-
         } else if (id == R.id.nav_RegistrarEventoProcesosAsistenciales) {
             miFragment = new EventoProcesosAsistencialesFragment();
             fragmentSeleccionado = true;
-
-
         }
 
         else if (id == R.id.nav_consulta_general) {
             miFragment = new ConsultasGeneralFragment();
             fragmentSeleccionado = true;
-
-
         }
-
 
         if (fragmentSeleccionado==true){
             getSupportFragmentManager().beginTransaction().replace(R.id.content_main,miFragment).commit();

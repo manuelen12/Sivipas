@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Dec 26 15:19:58 VET 2017
+1.base=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/assets/debug
+2.path=Stardust.ttf
+0.baseType=DIRECTORY
+2.base=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=SaturdayNights.ttf
+0.set=ASSET
+0.base=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=fonts/MotionPicture_PersonalUseOnly.ttf
