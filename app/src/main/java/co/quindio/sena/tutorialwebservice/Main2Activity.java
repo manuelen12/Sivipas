@@ -90,8 +90,84 @@ public class Main2Activity extends AppCompatActivity
 
     }
 
+    @SuppressWarnings("StatementWithEmptyBody")
     @Override
-    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-        return false;
+    public boolean onNavigationItemSelected(MenuItem item ) {
+        // Handle navigation view item clicks here.
+        int id = item.getItemId();
+
+        Fragment miFragment = null;
+        boolean fragmentSeleccionado = false;
+
+        if (id == R.id.nav_inicio) {
+            miFragment = new BienvenidaFragment();
+            fragmentSeleccionado = true;
+        } else if (id == R.id.nav_registro) {
+            miFragment = new RegistrarUsuarioFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_registroServicio) {
+            miFragment = new registrar_servicio_Fragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistroProcesosAsistenciales){
+            miFragment = new registrareventoprocedimientosasistencialesFragment();
+            fragmentSeleccionado = true;
+
+
+        } else if (id == R.id.nav_consulta_individual) {
+            miFragment = new ConsultarUsuarioFragment();
+            fragmentSeleccionado = true;
+        } else if (id == R.id.nav_consulta_gral) {
+            miFragment = new ConsultarListaUsuariosFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_desarrollador) {
+            miFragment = new DesarrolladorFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistrarIncidente) {
+            miFragment = new ReporteIncidenteFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistrarIncidentePAsistenciales) {
+            miFragment = new IncidenteSeguridadPacienteFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistrarEvento) {
+            miFragment = new RegistrarEventosE_AccidentalesFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistrarEventoMedicamentos) {
+            miFragment = new EventoAdversoMedicamentosFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistrarEventoAdversoDispositivosMedicos) {
+            miFragment = new EventoAdversoDispositivoFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistrareventoTramitesAdministrativos) {
+            miFragment = new TramitesAdministrativosFragment();
+            fragmentSeleccionado = true;
+
+        } else if (id == R.id.nav_RegistrarEventoProcesosAsistenciales) {
+            miFragment = new EventoProcesosAsistencialesFragment();
+            fragmentSeleccionado = true;
+        }
+
+        else if (id == R.id.nav_consulta_general) {
+            miFragment = new ConsultasGeneralFragment();
+            fragmentSeleccionado = true;
+        }
+
+        if (fragmentSeleccionado==true){
+            getSupportFragmentManager().beginTransaction().replace(R.id.content_main,miFragment).commit();
+        }
+
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drawer.closeDrawer(GravityCompat.START);
+        return true;
     }
+
+
 }
