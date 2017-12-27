@@ -118,7 +118,7 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
                         int r = obtDatosJSON( resultado );
                         Log.d("resultado", String.valueOf(r));
                         if (r > 0) {
-                            Intent i=new Intent(getContext(),Main2Activity.class);
+                            Intent i=new Intent( getContext(), Main2Activity.class);
                             i.putExtra ("name",Spinner3.getSelectedItem().toString());
                             startActivity(i);
 
