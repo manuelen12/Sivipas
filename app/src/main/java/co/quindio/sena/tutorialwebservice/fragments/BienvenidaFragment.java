@@ -119,7 +119,7 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
                 try {
                     new Http(getContext()).get(
                             "/consulta_servicio/login/loguear.php",
-                            "{'name': '" + Spinner3.getSelectedItem().toString() + "','contrasena':'" + Edit_contraseña.getText().toString()+"'}"
+                            "{'name': '" + Spinner3.getText().toString() + "','contrasena':'" + Edit_contraseña.getText().toString()+"'}"
                     );
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -131,15 +131,9 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
                         if (Http.getCode() == 200) {
                             Intent i=new Intent( getContext(), ConsultaActivity.class);
                             try {
-                                Log.d("bienvenido",Http.getResult().getString("rol"));
                                 if (Objects.equals(Http.getResult().getString("rol"), "ADMINISTRADOR")){
                                     i=new Intent( getContext(), Main2Activity.class);
-                                    Log.d("Entro",Http.getResult().getString("rol"));
                                 }
-                            } catch (JSONException e) {
-                                e.printStackTrace();
-                            }
-                            try {
                                 Preferences.setLogin(
                                     getContext(),
                                     Boolean.TRUE,
@@ -150,7 +144,7 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
                             } catch (JSONException e) {
                                 e.printStackTrace();
                             }
-                            i.putExtra ("name",Spinner3.getSelectedItem().toString());
+                            i.putExtra ("name",Spinner3.getText().toString());
                             startActivity(i);
 
                         }else {
@@ -163,67 +157,16 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
         tr.start();
     }
 
-    public String enviarDatoGet(String name, String contrasena) {
-        Log.d("error", name);
-        URL url = null;
-        String linea = "";
-        int respuesta = 0;
-        StringBuilder result = null;
-
-
-        try {
-            String ip=getString( R.string.ip );
-            Log.d("culo", "culo");
-            url = new URL( ip+"/consulta_servicio/login/loguear.php?name=" + name + "&contrasena=" + contrasena );
-            Log.d("url", String.valueOf(url));
-            HttpURLConnection connection=(HttpURLConnection) url.openConnection();
-            respuesta=connection.getResponseCode();
-
-            result=new StringBuilder();
-
-            if (respuesta==HttpURLConnection.HTTP_OK){
-
-                InputStream in=new BufferedInputStream( connection.getInputStream() );
-                BufferedReader reader=new BufferedReader(new InputStreamReader( in ));
-
-
-                while ((linea= reader.readLine())!=null){
-                    Log.d("resolviendo", linea);
-                    result.append(linea);
-                }
-            }
-
-        } catch (Exception e) {}
-
-        return result.toString();
-
-    }
-
-        public int obtDatosJSON(String response){
-            int res=0;
-                try {
-                    JSONArray json=new JSONArray(response);
-                    if (json.length()>0){
-
-                        res=1;
-                    }
-                }catch (Exception e){}
-            return res;
-
-        }
-
-
-
-    public void onStart() {
+    /*public void onStart() {
         super.onStart();
         BackTask bt = new BackTask();
         bt.execute();
     }
+    */
 
 
 
-
-    class BackTask extends AsyncTask<Void, Void, Void> {
+/*    class BackTask extends AsyncTask<Void, Void, Void> {
         ArrayList<String> list;
 
         protected void onPreExecute() {
@@ -277,10 +220,10 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
             listItems.addAll(list);
             adapter.notifyDataSetChanged();
         }
-    }
+    }*/
 
     TextView tv_cargo;//Ahora pertenece a toda la clase y no solo al metodo
-    Spinner Spinner3;
+    EditText Spinner3;
     EditText Edit_contraseña;
     Button Btn_ingresar;
 
@@ -306,7 +249,7 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
         //Cada elemento debes inflarlo, xq el layout es solo la vista, pero la logica es java
         //y debes crear el enlace
         //Para inflar el Spinner
-        Spinner3 = (Spinner) v.findViewById(R.id.Spinner3);
+        Spinner3 = (EditText) v.findViewById(R.id.Spinner3);
         Edit_contraseña = (EditText) v.findViewById(R.id.Edit_contraseña);
         Btn_ingresar = (Button) v.findViewById(R.id.Btn_ingresar);
         Btn_ingresar.setOnClickListener(this);
@@ -322,8 +265,8 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
 
         //se pueden declarar fuera, pero se inflan dentro de este metodo
 
-        adapter = new ArrayAdapter<String>(getActivity(), R.layout.spinnercargo, R.id.txt, listItems);
-        Spinner3.setAdapter(adapter);
+        //adapter = new ArrayAdapter<String>(getActivity(), R.layout.spinnercargo, R.id.txt, listItems);
+        //Spinner3.setAdapter(adapter);
 
         //Notaste que es normal hacerlo denetor de este mismo metodo
         return v;
@@ -368,7 +311,4 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
         void onFragmentInteraction(Uri uri);
     }
 
-
-    private class MainActivity {
-    }
 }

@@ -20,28 +20,23 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true">
 
-        <TextView
-            android:id="@+id/tv_cargo"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="21dp"
-            android:layout_marginTop="70dp"
-            android:gravity="center"
-            android:text="Cargo"
-            android:textColor="#060606"
-            android:textSize="23dp"
-            android:textStyle="bold"
-            android:typeface="serif" />
-
-
-        <Spinner
+        <EditText
             android:id="@+id/Spinner3"
+            android:textColor="#070707"
+            android:typeface="serif"
+            android:textSize="23dp"
+            android:gravity="center"
+            android:textColorHint="#060606"
+            android:background="@drawable/edittextstyle"
+            android:layout_marginTop="40dp"
             android:layout_width="330dp"
-            android:layout_height="55dp"
+            android:layout_height="50dp"
+            android:textStyle="bold"
+            android:inputType="text"
             android:layout_gravity="center"
-            android:layout_marginTop="10dp"
-            android:spinnerMode="dialog">
-        </Spinner>
+            android:hint="Usuario"
+            />
+
 
         <EditText
             android:id="@+id/Edit_contraseña"

@@ -5,33 +5,28 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
+    ir-eligibility="METHOD_DELETED"
     plugin-version="3.0.1"
-    timestamp="1514517150090"
+    timestamp="1514518654422"
     token="-8642326721616108345"
-    verifier="FIELD_REMOVED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="985" />
+        duration="1379" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="245" />
+        duration="202" />
     <task
         name="verifier"
-        duration="170" />
+        duration="16" />
 
-    <artifact
-        location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
     <artifact
         location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
-    <artifact
-        location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/outputs/apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -81,12 +76,23 @@
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
-        <artifact
-            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1514518411747"
+        verifier="FIELD_TYPE_CHANGE" >
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/outputs/apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="METHOD_DELETED"
+        timestamp="1514518654422"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

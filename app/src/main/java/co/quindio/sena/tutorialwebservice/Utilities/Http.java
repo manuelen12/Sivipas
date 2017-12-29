@@ -35,7 +35,7 @@ public class Http {
         this.codeP = 0;
         this.resultP = "";
     }
-    public static String get(String url, String params) throws JSONException {
+    public String get(String url, String params) throws JSONException {
         InputStream content = null;
         String result = "";
         String add_params = "?";
@@ -47,7 +47,10 @@ public class Http {
                 Log.d("resdddddd", add_params);
             }
         }
-
+        if(Preferences.isLogin(myContext)) {
+            add_params += "token=" + Preferences.getToken(myContext);
+        }
+        Log.d("resdddddd", add_params);
         try {
             HttpClient httpclient = new DefaultHttpClient();
             HttpGet http_get = new HttpGet(baseURL+url+add_params);
