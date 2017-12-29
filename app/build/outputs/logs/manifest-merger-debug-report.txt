@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
 MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/manuel/.gradle/caches/transforms-1/files-1.1/crouton-1.8.5.aar/fa38ca0342e9bfcd0fb58e832e3c75c5/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:17:1-31:12
@@ -19,20 +19,20 @@ MERGED from [com.android.support:support-media-compat:25.3.1] /home/manuel/.grad
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/9a4f51ddfb96f8c8d05a77cad9a82d71/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a324c8608abfdf468bf413f5f688d3f9/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/38bea49e88a370eb73f07e8525ad8710/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
-		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
-		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:1-46:12
 		INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:2:11-69
@@ -45,7 +45,7 @@ ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManife
 	android:name
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:8:5-36:19
+ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:8:5-44:19
 MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/471aae86a737961d9a8a78d52e1e00b1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/manuel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6d84fff19b28e5fa876f7400007fee98/AndroidManifest.xml:29:5-20
@@ -114,6 +114,14 @@ ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManife
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:29:13-56
 	android:name
 		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:27:13-42
+activity#co.quindio.sena.tutorialwebservice.ConsultaActivity
+ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:36:9-43:40
+	android:label
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml:36:19-51
 uses-sdk
 INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/manuel/AndroidStudioProjects/Sivipas/app/src/main/AndroidManifest.xml

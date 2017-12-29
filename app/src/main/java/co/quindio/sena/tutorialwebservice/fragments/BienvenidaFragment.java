@@ -1,5 +1,6 @@
 package co.quindio.sena.tutorialwebservice.fragments;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
@@ -34,9 +35,13 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Objects;
 
+import co.quindio.sena.tutorialwebservice.ConsultaActivity;
 import co.quindio.sena.tutorialwebservice.Main2Activity;
 import co.quindio.sena.tutorialwebservice.R;
+import co.quindio.sena.tutorialwebservice.Utilities.Http;
+import co.quindio.sena.tutorialwebservice.Utilities.Preferences;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -111,20 +116,45 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
         Thread tr = new Thread() {
             @Override
             public void run() {
-                final String resultado = enviarDatoGet(Spinner3.getSelectedItem().toString(), Edit_contraseña.getText().toString() );
+                try {
+                    new Http(getContext()).get(
+                            "/consulta_servicio/login/loguear.php",
+                            "{'name': '" + Spinner3.getSelectedItem().toString() + "','contrasena':'" + Edit_contraseña.getText().toString()+"'}"
+                    );
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+
                 getActivity().runOnUiThread( new Runnable() {
                     @Override
                     public void run() {
-                        int r = obtDatosJSON( resultado );
-                        Log.d("resultado", String.valueOf(r));
-                        if (r > 0) {
-                            Intent i=new Intent( getContext(), Main2Activity.class);
+                        if (Http.getCode() == 200) {
+                            Intent i=new Intent( getContext(), ConsultaActivity.class);
+                            try {
+                                Log.d("bienvenido",Http.getResult().getString("rol"));
+                                if (Objects.equals(Http.getResult().getString("rol"), "ADMINISTRADOR")){
+                                    i=new Intent( getContext(), Main2Activity.class);
+                                    Log.d("Entro",Http.getResult().getString("rol"));
+                                }
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+                            try {
+                                Preferences.setLogin(
+                                    getContext(),
+                                    Boolean.TRUE,
+                                    Http.getResult().getString("token"),
+                                    Http.getResult().getString("rol"),
+                                    Http.getResult().getString("name")
+                                );
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
                             i.putExtra ("name",Spinner3.getSelectedItem().toString());
                             startActivity(i);
 
                         }else {
-                            Toast.makeText( getContext() ,"Usuario O Contraseña Incorrecta",Toast.LENGTH_LONG).show();
-
+                            Toast.makeText( getContext() ,Http.getError(),Toast.LENGTH_LONG).show();
                         }
                     }
                 } );
@@ -158,7 +188,7 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
 
 
                 while ((linea= reader.readLine())!=null){
-
+                    Log.d("resolviendo", linea);
                     result.append(linea);
                 }
             }
