@@ -103,6 +103,7 @@ public class Http {
             add_params += "token=" + Preferences.getToken(myContext);
         }
         Log.d("resdddddd", add_params);
+        Log.d("URL", baseURL+url+add_params);
         try {
             HttpClient httpclient = new DefaultHttpClient();
             HttpPost http_post = new HttpPost(baseURL+url+add_params);

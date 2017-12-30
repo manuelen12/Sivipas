@@ -6,22 +6,22 @@
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1514659161557"
+    timestamp="1514674829936"
     token="-8642326721616108345"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="5373" />
+        duration="1086" />
     <task
         name="instant-run-dex"
-        duration="31" />
+        duration="111" />
     <task
         name="instant-run-transform"
-        duration="11" />
+        duration="162" />
     <task
         name="verifier"
-        duration="1" />
+        duration="17" />
 
     <artifact
         location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/reload-dex/debug/classes.dex"
@@ -29,7 +29,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1514657915245"
+        timestamp="1514673597394"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -69,33 +69,8 @@
             type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="COLD"
-        timestamp="1514658182840"
-        verifier="STATIC_INITIALIZER_CHANGE" >
-        <artifact
-            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1514659040699"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-    </build>
-    <build
         build-mode="HOT_WARM"
-        timestamp="1514659135865"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/builds/debug/1514659135865/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1514659161557"
+        timestamp="1514674829936"
         verifier="COMPATIBLE" >
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/reload-dex/debug/classes.dex"
