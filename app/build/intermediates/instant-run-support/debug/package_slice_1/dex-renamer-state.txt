@@ -1,4 +1,4 @@
-#Thu Dec 28 21:45:45 VET 2017
-base.0=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dexMerger/debug/1
+#Fri Dec 29 20:06:42 VET 2017
+base.0=/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/transforms/dexMerger/debug/20
 path.0=classes.dex
 renamed.0=classes.dex

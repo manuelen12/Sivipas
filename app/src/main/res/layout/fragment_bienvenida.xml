@@ -10,7 +10,6 @@
     android:background="@drawable/backgroundlogin">
 
 
-
     <LinearLayout
         android:paddingTop="100dp"
         android:layout_width="match_parent"

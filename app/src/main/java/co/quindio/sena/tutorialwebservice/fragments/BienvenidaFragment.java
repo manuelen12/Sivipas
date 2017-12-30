@@ -1,6 +1,7 @@
 package co.quindio.sena.tutorialwebservice.fragments;
 
 import android.app.Activity;
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
@@ -113,6 +114,9 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
 
     @Override
     public void onClick(View v) {
+        final ProgressDialog progreso = new ProgressDialog(getContext());
+        progreso.setMessage("Cargando...");
+        progreso.show();
         Thread tr = new Thread() {
             @Override
             public void run() {
@@ -150,11 +154,13 @@ public class BienvenidaFragment extends Fragment implements View.OnClickListener
                         }else {
                             Toast.makeText( getContext() ,Http.getError(),Toast.LENGTH_LONG).show();
                         }
+                        progreso.hide();
                     }
                 } );
             }
         };
         tr.start();
+
     }
 
     /*public void onStart() {
