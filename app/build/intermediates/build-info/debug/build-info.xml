@@ -6,39 +6,39 @@
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1514674829936"
+    timestamp="1514942962406"
     token="-8642326721616108345"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1086" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="111" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="162" />
+        duration="0" />
     <task
         name="verifier"
-        duration="17" />
+        duration="0" />
 
     <artifact
-        location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
-        timestamp="1514673597394"
+        timestamp="1514938774787"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -69,12 +69,36 @@
             type="SPLIT_MAIN" />
     </build>
     <build
+        build-mode="COLD"
+        timestamp="1514939094730"
+        verifier="STATIC_INITIALIZER_CHANGE" >
+        <artifact
+            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1514942428034"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+    </build>
+    <build
         build-mode="HOT_WARM"
-        timestamp="1514674829936"
+        timestamp="1514942536515"
         verifier="COMPATIBLE" >
         <artifact
-            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/reload-dex/debug/classes.dex"
+            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/builds/debug/1514942536515/classes.dex"
             type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1514942962406"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

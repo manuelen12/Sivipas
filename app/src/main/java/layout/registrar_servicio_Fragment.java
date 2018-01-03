@@ -19,9 +19,11 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import co.quindio.sena.tutorialwebservice.R;
+import co.quindio.sena.tutorialwebservice.Utilities.Http;
 import co.quindio.sena.tutorialwebservice.actualizarUsuarioFragment;
 import co.quindio.sena.tutorialwebservice.entidades.VolleySingleton;
 
@@ -114,26 +116,40 @@ public class registrar_servicio_Fragment extends Fragment implements Response.Li
         return vista;
     }
 
-
-
-
-
-
     private void cargarWebService() {
-
         progreso=new ProgressDialog(getContext());
         progreso.setMessage("Cargando...");
         progreso.show();
 
-        String ip=getString( R.string.ip );
-        String url=ip+"/consulta_servicio/registrar/wJSONRegistroServicio.php?NomServicio="+campoServicio.getText().toString();
-        // http://192.168.2.44/consulta_servicio/registrar/wsJSONRegistro.php?contrasena=1234&name=Gerente
-        url=url.replace(" ","%20");
+        Thread tr = new Thread() {
+            @Override
+            public void run() {
+                try {
 
-        jsonObjectRequest=new JsonObjectRequest(Request.Method.GET,url,null,this,this);
-        //request.add(jsonObjectRequest);
-        VolleySingleton.getInstanciaVolley( getContext()).addToRequestQueue( jsonObjectRequest );
+                    new Http(getContext()).post(
+                            "/consulta_servicio/registrar/wJSONRegistroServicio.php",
+                            "{'NomServicio':'"+campoServicio.getText().toString()+"'}"
+                    );
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
 
+                getActivity().runOnUiThread( new Runnable() {
+                    @Override
+                    public void run() {
+                        if (Http.getCode() == 200) {
+                            Toast.makeText(getContext(),"Se Ha registrado exitosamente",Toast.LENGTH_SHORT).show();
+                            progreso.hide();
+                            campoServicio.setText("");
+                        }else {
+                            Toast.makeText( getContext() ,Http.getError(),Toast.LENGTH_LONG).show();
+                        }
+                        progreso.hide();
+                    }
+                } );
+            }
+        };
+        tr.start();
     }
 
     @Override

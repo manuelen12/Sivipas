@@ -31,7 +31,7 @@ import static android.content.ContentValues.TAG;
  */
 
 public class Http {
-    static String baseURL="http://192.168.250.2";
+    static String baseURL="http://192.168.250.3";
     private static int codeP;
     private static String resultP;
     Context myContext;
