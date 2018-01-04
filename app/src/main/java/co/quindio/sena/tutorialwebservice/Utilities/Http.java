@@ -14,6 +14,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.params.BasicHttpParams;
 import org.apache.http.params.HttpParams;
+import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -31,7 +32,7 @@ import static android.content.ContentValues.TAG;
  */
 
 public class Http {
-    static String baseURL="http://192.168.250.3";
+    static String baseURL="http://192.168.250.1";
     private static int codeP;
     private static String resultP;
     Context myContext;
@@ -148,6 +149,11 @@ public class Http {
         JSONObject response = new JSONObject(resultP);
         return response;
     }
+    public static JSONArray getResults() throws JSONException {
+        JSONArray response = new JSONArray(resultP);
+        return response;
+    }
+
     public static String getError() {
         return resultP;
     }

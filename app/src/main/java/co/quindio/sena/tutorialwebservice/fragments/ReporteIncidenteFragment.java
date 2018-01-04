@@ -1,12 +1,14 @@
 
 package co.quindio.sena.tutorialwebservice.fragments;
 
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,18 +19,12 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.impl.client.DefaultHttpClient;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
@@ -36,6 +32,7 @@ import java.net.URL;
 import java.util.ArrayList;
 
 import co.quindio.sena.tutorialwebservice.R;
+import co.quindio.sena.tutorialwebservice.Utilities.Http;
 
 
 /**
@@ -63,6 +60,7 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
+    ProgressDialog progreso;
 
     private OnFragmentInteractionListener mListener;
     //Aqui se encuentrar las varible segun el objeto
@@ -97,6 +95,9 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
     }
 
     public void  onStart() {
+
+
+
         super.onStart();
         ReporteIncidenteFragment.BackTaskEvento bt = new ReporteIncidenteFragment.BackTaskEvento();
         bt.execute();
@@ -200,43 +201,10 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
         }
 
         protected Void doInBackground(Void... params) {
-            InputStream is = null;
-            String result = "";
-            try {
-                HttpClient httpclient = new DefaultHttpClient();
-                HttpPost httppost = new HttpPost("http://192.168.2.44/consulta_servicio/ListaServicio.php");
-                HttpResponse response = httpclient.execute(httppost);
-                HttpEntity entity = response.getEntity();
-                // Get our response as a String.
-                is = entity.getContent();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+            String response = HttpRequest.get("http://google.com").body();
 
-            //convert response to string
-            try {
-                BufferedReader reader = new BufferedReader(new InputStreamReader(is, "utf-8"));
-                String line = null;
-                while ((line = reader.readLine()) != null) {
-                    result += line;
-                }
-                is.close();
-                //result=sb.toString();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
             // parse json data
-            try {
-                JSONArray jArray = new JSONArray(result);
-                for (int i = 0; i < jArray.length(); i++) {
-                    JSONObject jsonObject = jArray.getJSONObject(i);
-                    // add interviewee name to arraylist
-                    list2.add(jsonObject.getString("NomServicio"));
 
-                }
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
             return null;
         }
 
@@ -244,8 +212,6 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
             listItems2.addAll(list2);
             adapter2.notifyDataSetChanged();
         }
-
-
 
     }
 
@@ -263,53 +229,50 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
         }
 
         protected Void doInBackground(Void... params) {
-            InputStream is = null;
-            String result = "";
-            try {
-                String ip=getString( R.string.ip );
-                HttpClient httpclient = new DefaultHttpClient();
-                HttpPost httppost = new HttpPost(ip+"/consulta_servicio/ListarReporteIncidente.php");
-                HttpResponse response = httpclient.execute(httppost);
-                HttpEntity entity = response.getEntity();
-                // Get our response as a String.
-                is = entity.getContent();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+            final Http x = new Http(getContext());
+            Thread tr2 = new Thread() {
+                @Override
+                public void run() {
 
-            //convert response to string
-            try {
-                BufferedReader reader = new BufferedReader(new InputStreamReader(is, "utf-8"));
-                String line = null;
-                while ((line = reader.readLine()) != null) {
-                    result += line;
-                }
-                is.close();
-                //result=sb.toString();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-            // parse json data
-            try {
-                JSONArray jArray = new JSONArray(result);
-                for (int i = 0; i < jArray.length(); i++) {
-                    JSONObject jsonObject = jArray.getJSONObject(i);
-                    // add interviewee name to arraylist
-                    list.add(jsonObject.getString("Descripcion"));
+                    try {
+                        x.get(
+                                "/consulta_servicio/ListarReporteIncidente.php",
+                                ""
+                        );
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
 
+                    getActivity().runOnUiThread( new Runnable() {
+                        @Override
+                        public void run() {
+                            if (x.getCode() != 200) {
+                                Toast.makeText( getContext() ,"Error Servicios",Toast.LENGTH_LONG).show();
+                            }else{
+                                try {
+                                    Log.d("xyz", String.valueOf(x.getResults().length()));
+                                    for (int i = 0; i < x.getResults().length(); i++) {
+                                        JSONObject jsonObject = x.getResults().getJSONObject(i);
+                                        // add interviewee name to arraylist
+                                        list.add(jsonObject.getString("Descripcion"));
+                                    }
+                                    listItems.addAll(list);
+                                    adapter.notifyDataSetChanged();
+                                } catch (JSONException e) {
+                                    e.printStackTrace();
+                                }
+                            }
+                        }
+                    } );
                 }
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
+            };
+            tr2.start();
             return null;
         }
-
         protected void onPostExecute(Void result) {
             listItems.addAll(list);
             adapter.notifyDataSetChanged();
         }
-
-
 
     }
 
