@@ -113,6 +113,9 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
     }
 
     private void cargarWebService() {
+        final ProgressDialog progreso = new ProgressDialog(getContext());
+        progreso.setMessage("Cargando...");
+        progreso.show();
         final Http x = new Http(getContext());
         Thread tr2 = new Thread() {
             @Override
@@ -120,7 +123,7 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
 
                 try {
                     x.get(
-                            "/consulta_servicio/ListaServicio.php",
+                            "/consulta_servicio/registrar/ListarReporteIncidente.php",
                             ""
                     );
                 } catch (JSONException e) {
@@ -131,46 +134,16 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
                     @Override
                     public void run() {
                         if (x.getCode() != 200) {
-                            Toast.makeText( getContext() ,"Error Servicios",Toast.LENGTH_LONG).show();
+                            Toast.makeText( getContext() ,Http.getError(),Toast.LENGTH_LONG).show();
                         }else {
-                            try {
-                                JSONArray x2 = new JSONArray(x.getResult().getString("servicio"));
-                                for (int i = 0; i <x2.length(); i++) {
-                                    JSONObject jsonObject = x2.getJSONObject(i);
-                                    // add interviewee name to arraylist
-                                    list.add(jsonObject.getString("Descripcion"));
-                                }
-                                JSONArray x3 = new JSONArray(x.getResult().getString("eventos"));
-                                for (int i = 0; i <x3.length(); i++) {
-                                    JSONObject jsonObject = x3.getJSONObject(i);
-                                    // add interviewee name to arraylist
-                                    list2.add(jsonObject.getString("Descripcion"));
-                                }
-
-                                listItems.addAll(list2);
-                                adapter.notifyDataSetChanged();
-                                listItems2.addAll(list);
-                                adapter2.notifyDataSetChanged();
-                            } catch (JSONException e) {
-                                e.printStackTrace();
-                            }
+                            Toast.makeText( getContext() ,"Registro Exitoso",Toast.LENGTH_LONG).show();
                         }
+                        progreso.hide();
                     }
                 } );
             }
         };
         tr2.start();
-        progreso=new ProgressDialog(getContext());
-        progreso.setMessage("Cargando...");
-        progreso.show();
-
-        String ip=getString( R.string.ip );
-        String url=ip+"/consulta_servicio/registrar/ListarReporteIncidente.php?NomPac="+NombPacient.getText().toString()+"&Documento="+CampDocument.getText().toString()+"&DescSuceso="+CampoDescrip.getText().toString();
-        // http://192.168.2.44/consulta_servicio/registrar/wsJSONRegistro.php?contrasena=1234&name=Gerente
-        url=url.replace(" ","%20");
-
-        jsonObjectRequest=new JsonObjectRequest(Request.Method.GET,url,null,this,this);
-        request.add(jsonObjectRequest);
 
     }
 
