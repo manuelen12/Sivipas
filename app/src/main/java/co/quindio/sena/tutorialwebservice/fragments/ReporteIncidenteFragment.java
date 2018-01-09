@@ -1,6 +1,11 @@
 
 package co.quindio.sena.tutorialwebservice.fragments;
 
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.DatePickerDialog;
+import android.support.v4.app.FragmentManager;
+import android.app.FragmentTransaction;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
@@ -14,10 +19,13 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.github.kevinsawicki.http.HttpRequest;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -31,9 +39,10 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 
+import co.quindio.sena.tutorialwebservice.MainActivity;
 import co.quindio.sena.tutorialwebservice.R;
 import co.quindio.sena.tutorialwebservice.Utilities.Http;
-
+import co.quindio.sena.tutorialwebservice.Utilities.Preferences;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -43,7 +52,7 @@ import co.quindio.sena.tutorialwebservice.Utilities.Http;
  * Use the {@link RegistrarEventosE_AccidentalesFragment#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class ReporteIncidenteFragment extends Fragment implements View.OnClickListener  {
+public class ReporteIncidenteFragment extends Fragment implements View.OnClickListener, DatePickerDialog.OnDateSetListener  {
 
 
 
@@ -51,6 +60,7 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
     ArrayList<String> listItems2 = new  ArrayList<>();
     ArrayAdapter<String> adapter;
     ArrayAdapter<String> adapter2;
+    EditText et;
     //Spinner sp;
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -96,46 +106,65 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
 
     public void  onStart() {
 
-
-
         super.onStart();
         ReporteIncidenteFragment.BackTaskEvento bt = new ReporteIncidenteFragment.BackTaskEvento();
         bt.execute();
-
-        super.onStart();
-        ReporteIncidenteFragment.BackTask bt1 = new ReporteIncidenteFragment.BackTask();
-        bt1.execute();
-
-
 
     }
 
     @Override
     public void onClick(View v) {
+        Preferences.setParams(getContext(),"{'servicio':'" + campoServicio + "','evento':'" + campoEvento +"','fecha':'"+EscribFecha+"'}");
+        FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
+        Fragment fragmentG = new IncidenteSeguridadPacienteFragment();
+        fragmentManager.beginTransaction().replace(
+                R.id.content_main, fragmentG, "") .commit();
+
+        //cargarWebService();
+    }
+
+
+    private void cargarWebService() {
+
+        progreso=new ProgressDialog(getContext());
+        progreso.setMessage("Cargando...");
+        progreso.show();
 
         Thread tr = new Thread() {
             @Override
             public void run() {
-                final String resultado = enviarDatoGet(campoServicio.getSelectedItem().toString(), EscribFecha.getText().toString(), campoEvento.getAdapter().toString());
+                try {
+
+                    new Http(getContext()).post(
+                            "/consulta_servicio/registrar/wJONRegistrarIncidentes.php",
+                            "{'servicio':'" + campoServicio + "','evento':'" + campoEvento +"','fecha':'"+EscribFecha+"'}"
+                    );
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+
                 getActivity().runOnUiThread( new Runnable() {
                     @Override
                     public void run() {
-                        int r = obtDatosJSON( resultado );
-                        if (r > 0) {
-                            Intent i=new Intent( getContext(),IncidenteSeguridadPacienteFragment.class);
-                            i.putExtra ("servicio",campoServicio.getSelectedItem().toString());
-                            startActivity(i);
-
+                        if (Http.getCode() == 200) {
+                            Toast.makeText(getContext(),"Se Ha registrado exitosamente",Toast.LENGTH_SHORT).show();
+                            progreso.hide();
+                            //campoServicio.setText("");
+                            //campoEvento.setText("");
+                            EscribFecha.setText("");
                         }else {
-                            Toast.makeText( getContext() ,"Registro Incorrecto O Fallido",Toast.LENGTH_LONG).show();
-
+                            Toast.makeText( getContext() ,Http.getError(),Toast.LENGTH_LONG).show();
                         }
+                        progreso.hide();
                     }
                 } );
             }
         };
         tr.start();
+
+
     }
+
 
     public String enviarDatoGet(String s, String servicio, String evento) {
 
@@ -187,45 +216,15 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
 
     }
 
-
-
-
-
-
-    class BackTask extends AsyncTask<Void, Void, Void> {
-        ArrayList<String> list2;
-
-        protected void onPreExecute() {
-            super.onPreExecute();
-            list2 = new ArrayList<>();
-        }
-
-        protected Void doInBackground(Void... params) {
-            String response = HttpRequest.get("http://google.com").body();
-
-            // parse json data
-
-            return null;
-        }
-
-        protected void onPostExecute(Void result) {
-            listItems2.addAll(list2);
-            adapter2.notifyDataSetChanged();
-        }
-
-    }
-
-
-
-    ///
-
-
     class BackTaskEvento extends AsyncTask<Void, Void, Void> {
-        ArrayList<String> list;
 
+
+        ArrayList<String> list;
+        ArrayList<String> list2;
         protected void onPreExecute() {
             super.onPreExecute();
             list = new ArrayList<>();
+            list2 = new ArrayList<>();
         }
 
         protected Void doInBackground(Void... params) {
@@ -236,7 +235,7 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
 
                     try {
                         x.get(
-                                "/consulta_servicio/ListarReporteIncidente.php",
+                                "/consulta_servicio/ListaServicio.php",
                                 ""
                         );
                     } catch (JSONException e) {
@@ -248,16 +247,25 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
                         public void run() {
                             if (x.getCode() != 200) {
                                 Toast.makeText( getContext() ,"Error Servicios",Toast.LENGTH_LONG).show();
-                            }else{
+                            }else {
                                 try {
-                                    Log.d("xyz", String.valueOf(x.getResults().length()));
-                                    for (int i = 0; i < x.getResults().length(); i++) {
-                                        JSONObject jsonObject = x.getResults().getJSONObject(i);
+                                    JSONArray x2 = new JSONArray(x.getResult().getString("servicio"));
+                                    for (int i = 0; i <x2.length(); i++) {
+                                        JSONObject jsonObject = x2.getJSONObject(i);
                                         // add interviewee name to arraylist
                                         list.add(jsonObject.getString("Descripcion"));
                                     }
-                                    listItems.addAll(list);
+                                    JSONArray x3 = new JSONArray(x.getResult().getString("eventos"));
+                                    for (int i = 0; i <x3.length(); i++) {
+                                        JSONObject jsonObject = x3.getJSONObject(i);
+                                        // add interviewee name to arraylist
+                                        list2.add(jsonObject.getString("Descripcion"));
+                                    }
+
+                                    listItems.addAll(list2);
                                     adapter.notifyDataSetChanged();
+                                    listItems2.addAll(list);
+                                    adapter2.notifyDataSetChanged();
                                 } catch (JSONException e) {
                                     e.printStackTrace();
                                 }
@@ -269,24 +277,23 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
             tr2.start();
             return null;
         }
+
         protected void onPostExecute(Void result) {
             listItems.addAll(list);
             adapter.notifyDataSetChanged();
         }
-
     }
 
-
-
-
     TextView textView2;
+
+
     Spinner campoServicio;
     TextView textView3;
     Spinner campoEvento;
     TextView textView1;
     EditText EscribFecha;
+    EditText etPlannedDate2;
     Button btnRegistra;
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -298,7 +305,8 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
         campoServicio = (Spinner) v.findViewById(R.id.campoServicio);
         campoEvento = (Spinner) v.findViewById(R.id.campoEvento);
         EscribFecha =(EditText) v.findViewById(R.id.EscribFecha);
-
+        etPlannedDate2 = (EditText) v.findViewById(R.id.etPlannedDate);
+        Log.d("Verdadera Prueba", String.valueOf(etPlannedDate2));
         btnRegistra = (Button) v.findViewById(R.id.btnRegistra);
 
         adapter2 = new ArrayAdapter<String>(getActivity(), R.layout.spinnerservicio, R.id.txtservicio, listItems2);
@@ -307,10 +315,31 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
         adapter = new ArrayAdapter<String>(getActivity(), R.layout.spinnerservicio1, R.id.txtevento, listItems);
         campoEvento.setAdapter(adapter);
         btnRegistra.setOnClickListener(this);
+        etPlannedDate2.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Log.d("funcionaaa", "ssssssiii");
+                final java.util.Calendar c = java.util.Calendar.getInstance();
+                int mYear = c.get(java.util.Calendar.YEAR);
+                int mMonth = c.get(java.util.Calendar.MONTH);
+                int mDay = c.get(java.util.Calendar.DAY_OF_MONTH);
 
+                DatePickerDialog datePickerDialog = new DatePickerDialog(
+                        getContext(), ReporteIncidenteFragment.this, mYear, mMonth, mDay);
+                datePickerDialog.setTitle("Seleccione la fecha");
+                datePickerDialog.show();
+            }
+        });
 
         return v;
 
+    }
+
+
+    @Override
+    public void onDateSet(DatePicker v, int year, int month, int dayOfMonth) {
+        final String selectedDate = year + " / " + (month+1) + " / " + dayOfMonth;
+        etPlannedDate2.setText(selectedDate);
     }
 
 
@@ -359,4 +388,18 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
         // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);
     }
+
+
+    private void showDatePickerDialog() {
+        DatePickerFragment newFragment = DatePickerFragment.newInstance(new DatePickerDialog.OnDateSetListener() {
+            @Override
+            public void onDateSet(DatePicker datePicker, int year, int month, int day) {
+                // +1 because january is zero
+                final String selectedDate = day + " / " + (month+1) + " / " + year;
+                EscribFecha.setText(selectedDate);
+            }
+        });
+        newFragment.show(getActivity().getSupportFragmentManager(), "datePicker");
+    }
+
 }

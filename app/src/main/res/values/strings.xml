@@ -18,4 +18,5 @@
     <string name="title_activity_spinner">spinner</string>
     <string name="actualizarUsuarioFragment">Actualizar Contraseña</string>
     <string name="registrareventoprocedimientosasistencialesFragment">Registrar Evento Del Procedimiento Asistencial</string>
+    <string name="report_planned_date">text</string>
 </resources>

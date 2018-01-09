@@ -9,6 +9,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.ViewManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -20,9 +21,12 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 
+import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import co.quindio.sena.tutorialwebservice.R;
+import co.quindio.sena.tutorialwebservice.Utilities.Http;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -83,7 +87,7 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
     }
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+    public View onCreateView(LayoutInflater inflater, final ViewGroup container,
                              Bundle savedInstanceState) {
 //Aqui se encuentrar la varible porposionada anteriormente y su id de campo//
 
@@ -99,8 +103,8 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
 
         botonRegistro.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
-                cargarWebService();
+            public void onClick(View v) {
+
             }
         });
 
@@ -109,7 +113,53 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
     }
 
     private void cargarWebService() {
+        final Http x = new Http(getContext());
+        Thread tr2 = new Thread() {
+            @Override
+            public void run() {
 
+                try {
+                    x.get(
+                            "/consulta_servicio/ListaServicio.php",
+                            ""
+                    );
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+
+                getActivity().runOnUiThread( new Runnable() {
+                    @Override
+                    public void run() {
+                        if (x.getCode() != 200) {
+                            Toast.makeText( getContext() ,"Error Servicios",Toast.LENGTH_LONG).show();
+                        }else {
+                            try {
+                                JSONArray x2 = new JSONArray(x.getResult().getString("servicio"));
+                                for (int i = 0; i <x2.length(); i++) {
+                                    JSONObject jsonObject = x2.getJSONObject(i);
+                                    // add interviewee name to arraylist
+                                    list.add(jsonObject.getString("Descripcion"));
+                                }
+                                JSONArray x3 = new JSONArray(x.getResult().getString("eventos"));
+                                for (int i = 0; i <x3.length(); i++) {
+                                    JSONObject jsonObject = x3.getJSONObject(i);
+                                    // add interviewee name to arraylist
+                                    list2.add(jsonObject.getString("Descripcion"));
+                                }
+
+                                listItems.addAll(list2);
+                                adapter.notifyDataSetChanged();
+                                listItems2.addAll(list);
+                                adapter2.notifyDataSetChanged();
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+                        }
+                    }
+                } );
+            }
+        };
+        tr2.start();
         progreso=new ProgressDialog(getContext());
         progreso.setMessage("Cargando...");
         progreso.show();

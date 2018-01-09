@@ -1504,6 +1504,10 @@
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/drawable-mdpi/ic_action_calendar.png"
     },
     {
+        "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/layout_fragment_next_reporte_incidente.xml.flat",
+        "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/layout/fragment_next_reporte_incidente.xml"
+    },
+    {
         "merged": "/home/manuel/AndroidStudioProjects/Sivipas/app/build/intermediates/res/merged/debug/layout_usuarios_list.xml.flat",
         "source": "/home/manuel/AndroidStudioProjects/Sivipas/app/src/main/res/layout/usuarios_list.xml"
     },

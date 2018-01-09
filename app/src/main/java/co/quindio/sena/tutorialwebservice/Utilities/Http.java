@@ -2,7 +2,7 @@ package co.quindio.sena.tutorialwebservice.Utilities;
 
 import android.content.Context;
 import android.util.Log;
-
+import com.github.kevinsawicki.http.HttpRequest;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
@@ -41,6 +41,29 @@ public class Http {
         this.codeP = 0;
         this.resultP = "";
     }
+
+    public String get(String url, String params)  throws JSONException{
+        String add_params = "?";
+        if (!params.isEmpty()) {
+            JSONObject data = new JSONObject(params);
+            for (int i = 0; i < data.names().length(); i++) {
+                Log.d("Provandoooo", "key = " + data.names().getString(i) + " value = " + data.get(data.names().getString(i)));
+                add_params += data.names().getString(i)+"="+ data.get(data.names().getString(i))+"&";
+                Log.d("resdddddd", add_params);
+            }
+        }
+        if(Preferences.isLogin(myContext)) {
+            add_params += "token=" + Preferences.getToken(myContext);
+        }
+        String url2 = baseURL+url+add_params;
+        Log.d("URL", url2);
+        HttpRequest response = HttpRequest.get(url2);
+        resultP = response.body();
+        int code = response.code();
+        codeP = code;
+        return resultP;
+    }
+    /*
     public String get(String url, String params) throws JSONException {
         InputStream content = null;
         String result = "";
@@ -85,7 +108,7 @@ public class Http {
         resultP = result;
         return result;
     }
-
+*/
     public String post(String url, String params) throws JSONException {
         ArrayList<NameValuePair> postParameters;
         postParameters = new ArrayList<NameValuePair>();

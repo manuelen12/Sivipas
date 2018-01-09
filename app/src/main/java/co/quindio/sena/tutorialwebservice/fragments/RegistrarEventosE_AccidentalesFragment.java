@@ -1,6 +1,7 @@
 
 package co.quindio.sena.tutorialwebservice.fragments;
 
+import android.app.DatePickerDialog;
 import android.net.Uri;
 import android.content.Context;
 import android.os.AsyncTask;
@@ -11,6 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
@@ -28,6 +30,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.text.BreakIterator;
 import java.util.ArrayList;
 
 import co.quindio.sena.tutorialwebservice.R;
@@ -250,7 +253,9 @@ public class RegistrarEventosE_AccidentalesFragment extends Fragment  {
         campoServicio = (Spinner) v.findViewById(R.id.campoServicio);
         campoEvento = (Spinner) v.findViewById(R.id.campoEvento);
         EscribFecha =(EditText) v.findViewById(R.id.EscribFecha);
-
+        EscribFecha.setOnClickListener((View.OnClickListener) this);
+        //EditText etPlannedDate = (EditText) v.findViewById(R.id.etPlannedDate);
+        //etPlannedDate.setOnClickListener(this);
         btnRegistra = (Button) v.findViewById(R.id.btnRegistra);
 
         adapter2 = new ArrayAdapter<String>(getActivity(), R.layout.spinnerservicio, R.id.txtservicio, listItems2);
@@ -259,7 +264,8 @@ public class RegistrarEventosE_AccidentalesFragment extends Fragment  {
         adapter = new ArrayAdapter<String>(getActivity(), R.layout.spinnerservicio1, R.id.txtevento, listItems);
         campoEvento.setAdapter(adapter);
 
-
+        EditText etPlannedDate = (EditText) v.findViewById(R.id.etPlannedDate);
+        etPlannedDate.setOnClickListener((View.OnClickListener) this);
 
         return v;
     }
@@ -304,5 +310,26 @@ public class RegistrarEventosE_AccidentalesFragment extends Fragment  {
     public interface OnFragmentInteractionListener {
         // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);
+    }
+
+    //@Override
+    public void onClick(View view) {
+        switch (view.getId()) {
+            case R.id.etPlannedDate:
+                showDatePickerDialog();
+                break;
+        }
+    }
+
+    private void showDatePickerDialog() {
+        DatePickerFragment newFragment = DatePickerFragment.newInstance(new DatePickerDialog.OnDateSetListener() {
+            @Override
+            public void onDateSet(DatePicker datePicker, int year, int month, int day) {
+                // +1 because january is zero
+                final String selectedDate = day + " / " + (month+1) + " / " + year;
+                EscribFecha.setText(selectedDate);
+            }
+        });
+        newFragment.show(getActivity().getSupportFragmentManager(), "datePicker");
     }
 }

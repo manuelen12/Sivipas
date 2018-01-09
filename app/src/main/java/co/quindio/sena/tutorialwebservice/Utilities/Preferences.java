@@ -15,6 +15,7 @@ public class Preferences {
     public static final String KEY_USERNAME = "username";
     public static final String LEVEL = "level";
     public static final String TOKEN = "token";
+    public static final String ARGUMENTS = "arguments";
 
     public static void setString(String key, String value, Context context) {
         //context.getSharedPreferences("BASE",0);
@@ -71,6 +72,13 @@ public class Preferences {
         setString(Preferences.LEVEL,level,mycontext);///ESTA ES LA MIA
         setString(Preferences.KEY_USERNAME,username,mycontext);///ESTA ES LA MIA
         Log.e(Preferences.TOKEN, token);
+    }
+
+    public static void setParams(Context mycontext, String arguments){
+        setString(Preferences.ARGUMENTS,arguments,mycontext);///ESTA ES LA MIA
+    }
+    public static String getParams(Context mycontext, String arguments){
+        return getString(Preferences.ARGUMENTS,mycontext);
     }
 
     public static String getUsername(Context mycontext){
