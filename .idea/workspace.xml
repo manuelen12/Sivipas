@@ -11,7 +11,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="034722e5-df32-42c9-ac01-48b622c13b61" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/co/quindio/sena/tutorialwebservice/Utilities/Preferences.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment$BackTaskEvento.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/Utilities/Preferences.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/Utilities/Preferences.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.java" />
     </list>
     <ignored path="TutorialWebService-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,22 +110,23 @@
       <file leaf-file-name="RegistrarUsuarioFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/RegistrarUsuarioFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
+            <state relative-caret-position="-180">
               <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReporteIncidenteFragment.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReporteIncidenteFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="178" column="31" lean-forward="false" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="83" />
+            <state relative-caret-position="100">
+              <caret line="177" column="163" lean-forward="false" selection-start-line="177" selection-start-column="163" selection-end-line="177" selection-end-column="163" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#newInstance#0;class#ReporteIncidenteFragment#0" expanded="false" />
                 <element signature="method#onStart#0;class#ReporteIncidenteFragment#0" expanded="false" />
+                <element signature="method#cargarWebService#0;class#ReporteIncidenteFragment#0" expanded="false" />
                 <element signature="method#obtDatosJSON#0;class#ReporteIncidenteFragment#0" expanded="false" />
               </folding>
             </state>
@@ -85,8 +136,8 @@
       <file leaf-file-name="Preferences.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/Utilities/Preferences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+            <state relative-caret-position="287">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,8 +156,8 @@
       <file leaf-file-name="BienvenidaFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/BienvenidaFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="156" column="24" lean-forward="false" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="40" />
+            <state relative-caret-position="229">
+              <caret line="125" column="51" lean-forward="false" selection-start-line="125" selection-start-column="51" selection-end-line="125" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -138,8 +189,8 @@
       <file leaf-file-name="NextReporteIncidente.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/NextReporteIncidente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="78" column="24" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="24" />
+            <state relative-caret-position="1680">
+              <caret line="92" column="5" lean-forward="false" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -158,14 +209,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncidenteSeguridadPacienteFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IncidenteSeguridadPacienteFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="140" column="40" lean-forward="false" selection-start-line="140" selection-start-column="40" selection-end-line="140" selection-end-column="40" />
+            <state relative-caret-position="135">
+              <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
               <folding>
-                <element signature="e#4700#5180#0" expanded="true" />
-                <element signature="e#5179#5180#0" expanded="true" />
+                <element signature="e#3956#4108#0" expanded="true" />
+                <element signature="e#4107#4108#0" expanded="true" />
+                <marker date="1515582841893" expanded="false" signature="6085:6153" ph="run() → {" />
+                <marker date="1515582841893" expanded="false" signature="6988:7003" ph="}" />
               </folding>
             </state>
           </provider>
@@ -1864,8 +1917,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_registrar_eventos_e__accidentales.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/RegistrarEventosE_AccidentalesFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/Utilities/Preferences.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.java" />
       </list>
     </option>
   </component>
@@ -2292,7 +2345,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515532226230" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515584090797" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2340,7 +2393,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515532226230" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515584090797" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2502,7 +2555,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515532226231" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515584090798" />
       </method>
     </configuration>
     <list size="1">
@@ -2568,12 +2621,12 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270869" sideWeight="0.49694657" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.008347246" sideWeight="0.8027314" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15525876" sideWeight="0.8027314" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27389985" sideWeight="0.7525597" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18740515" sideWeight="0.7525597" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39899832" sideWeight="0.64339906" order="3" side_tool="false" content_ui="tabs" />
@@ -2645,7 +2698,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2977,37 +3030,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_incidente_seguridad_paciente.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/Utilities/Preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/Main2Activity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="163" column="84" lean-forward="false" selection-start-line="163" selection-start-column="67" selection-end-line="163" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/RegistrarUsuarioFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3023,10 +3049,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/NextReporteIncidente.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_incidente_seguridad_paciente.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="78" column="24" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -3039,34 +3068,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/Utilities/Preferences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="178" column="31" lean-forward="false" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#newInstance#0;class#ReporteIncidenteFragment#0" expanded="false" />
-            <element signature="method#onStart#0;class#ReporteIncidenteFragment#0" expanded="false" />
-            <element signature="method#obtDatosJSON#0;class#ReporteIncidenteFragment#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="287">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/BienvenidaFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="156" column="24" lean-forward="false" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="40" />
+        <state relative-caret-position="229">
+          <caret line="125" column="51" lean-forward="false" selection-start-line="125" selection-start-column="51" selection-end-line="125" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/RegistrarUsuarioFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/IncidenteSeguridadPacienteFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="140" column="40" lean-forward="false" selection-start-line="140" selection-start-column="40" selection-end-line="140" selection-end-column="40" />
+        <state relative-caret-position="135">
+          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
           <folding>
-            <element signature="e#4700#5180#0" expanded="true" />
-            <element signature="e#5179#5180#0" expanded="true" />
+            <element signature="e#3956#4108#0" expanded="true" />
+            <element signature="e#4107#4108#0" expanded="true" />
+            <marker date="1515582841893" expanded="false" signature="6085:6153" ph="run() → {" />
+            <marker date="1515582841893" expanded="false" signature="6988:7003" ph="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/NextReporteIncidente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="92" column="5" lean-forward="false" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/quindio/sena/tutorialwebservice/fragments/ReporteIncidenteFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="177" column="163" lean-forward="false" selection-start-line="177" selection-start-column="163" selection-end-line="177" selection-end-column="163" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#newInstance#0;class#ReporteIncidenteFragment#0" expanded="false" />
+            <element signature="method#onStart#0;class#ReporteIncidenteFragment#0" expanded="false" />
+            <element signature="method#cargarWebService#0;class#ReporteIncidenteFragment#0" expanded="false" />
+            <element signature="method#obtDatosJSON#0;class#ReporteIncidenteFragment#0" expanded="false" />
           </folding>
         </state>
       </provider>

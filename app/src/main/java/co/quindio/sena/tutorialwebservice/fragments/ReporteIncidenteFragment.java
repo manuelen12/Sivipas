@@ -114,13 +114,12 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
 
     @Override
     public void onClick(View v) {
-        Preferences.setParams(getContext(),"{'servicio':'" + campoServicio + "','evento':'" + campoEvento +"','fecha':'"+EscribFecha+"'}");
+        Preferences.setParams(getContext(),"{'servicio':'" + campoServicio.getSelectedItem().toString() + "','evento':'" + campoEvento.getSelectedItem().toString() +"','fecha':'"+EscribFecha.getText().toString()+"'");
         FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
         Fragment fragmentG = new IncidenteSeguridadPacienteFragment();
         fragmentManager.beginTransaction().replace(
                 R.id.content_main, fragmentG, "") .commit();
 
-        //cargarWebService();
     }
 
 
@@ -176,7 +175,7 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
 
         try {
             String ip=getString( R.string.ip );
-            url = new URL( ip+"/consulta_servicio/registrar/wJONRegistrarIncidentes?servicio=" + campoServicio + "&evento=" + campoEvento +"&fecha="+EscribFecha);
+            url = new URL( ip+"/consulta_servicio/registrar/wJONRegistrarIncidentes?servicio=" + campoServicio + "&evento=" + campoEvento +"&fecha="+etPlannedDate2);
             HttpURLConnection connection=(HttpURLConnection) url.openConnection();
             respuesta=connection.getResponseCode();
 
@@ -235,7 +234,7 @@ public class ReporteIncidenteFragment extends Fragment implements View.OnClickLi
 
                     try {
                         x.get(
-                                "/consulta_servicio/ListaServicio.php",
+                                "/consulta_servicio/ListaServicios.php",
                                 ""
                         );
                     } catch (JSONException e) {

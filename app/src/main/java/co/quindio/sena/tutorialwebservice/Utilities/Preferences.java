@@ -77,7 +77,7 @@ public class Preferences {
     public static void setParams(Context mycontext, String arguments){
         setString(Preferences.ARGUMENTS,arguments,mycontext);///ESTA ES LA MIA
     }
-    public static String getParams(Context mycontext, String arguments){
+    public static String getParams(Context mycontext){
         return getString(Preferences.ARGUMENTS,mycontext);
     }
 

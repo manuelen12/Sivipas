@@ -27,6 +27,7 @@ import org.json.JSONObject;
 
 import co.quindio.sena.tutorialwebservice.R;
 import co.quindio.sena.tutorialwebservice.Utilities.Http;
+import co.quindio.sena.tutorialwebservice.Utilities.Preferences;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -104,7 +105,7 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
         botonRegistro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                cargarWebService();
             }
         });
 
@@ -113,7 +114,48 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
     }
 
     private void cargarWebService() {
-        final ProgressDialog progreso = new ProgressDialog(getContext());
+            progreso=new ProgressDialog(getContext());
+            progreso.setMessage("Cargando...");
+            progreso.show();
+            final String value = Preferences.getParams(getContext())+ ",'NomPac': '"+NombPacient.getText().toString()+"','Documento': '"+CampDocument.getText().toString()+"','DescSuceso': '"+CampoDescrip.getText().toString()+"'}";
+
+            Thread tr = new Thread() {
+                @Override
+                public void run() {
+                    try {
+
+                        new Http(getContext()).post(
+                                "/consulta_servicio/registrar/wJONRegistrarIncidentes.php",
+                                value
+                        );
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+
+                    getActivity().runOnUiThread( new Runnable() {
+                        @Override
+                        public void run() {
+                            if (Http.getCode() == 200) {
+                                Toast.makeText(getContext(),"Se Ha registrado exitosamente",Toast.LENGTH_SHORT).show();
+                                progreso.hide();
+                                NombPacient.setText("");
+                                CampDocument.setText("");
+                                CampoDescrip.setText("");
+                            }else {
+                                Toast.makeText( getContext() ,Http.getError(),Toast.LENGTH_LONG).show();
+                            }
+                            progreso.hide();
+                        }
+                    } );
+                }
+            };
+            tr.start();
+
+
+
+        /*
+
+        ProgressDialog progreso = new ProgressDialog(getContext());
         progreso.setMessage("Cargando...");
         progreso.show();
         final Http x = new Http(getContext());
@@ -122,8 +164,8 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
             public void run() {
 
                 try {
-                    x.get(
-                            "/consulta_servicio/registrar/ListarReporteIncidente.php",
+                    x.post(
+                            "/consulta_servicio/registrar/wJONRegistrarIncidentes.php",
                             ""
                     );
                 } catch (JSONException e) {
@@ -144,7 +186,7 @@ public class IncidenteSeguridadPacienteFragment extends Fragment implements Resp
             }
         };
         tr2.start();
-
+        */
     }
 
     @Override
